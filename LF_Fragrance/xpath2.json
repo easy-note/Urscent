@@ -1,0 +1,25 @@
+{
+  "button": "//*[@id=\"notice\"]/div[3]/button",
+  "year_f": "//*[@id=\"letter_", 
+  "year_b": "\"]/div[1]/div",
+
+  "year_grid_f": "//*[@id=\"letter_", 
+  "year_grid_b": "\"]/div[2]/div[1]/div/ul",
+
+
+  "to_specific_year_f": "/li[",
+  "to_specific_year_b": "]/a",
+ 
+  "page_list_f": "/html/body/div[",
+  "page_list_b": "]/div/div[1]/div[1]/div[1]/div[2]",
+
+  "no_perfume_checker": "/html/body/div[5]/div/div[1]/div/h1",
+
+  "pefume_checker": "/html/body/div[4]/div/div[1]/div[2]/div[", 
+
+  "perfume_url_f": "/html/body/div[4]/div/div[1]/div[2]/div[",
+  "perfume_url_b": "]/div[3]/a",
+  "2_or_3": "/html/body/div[5]/div/div[1]/div[2]/div[1]/div["
+}
+
+

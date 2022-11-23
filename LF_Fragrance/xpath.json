@@ -1,0 +1,56 @@
+{
+  "img_url": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[1]/div[1]/div/div/img",
+
+
+  "accord_grid": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[1]/div[2]/div",
+  "accord_bar_f": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[1]/div[2]/div/div[",
+  "accord_bar_b": "]/div",
+
+  "review_grid": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[4]/div[1]/div",
+  "review_emotion_f": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[4]/div[1]/div/div[",
+  "review_emotion_b": "]/div[2]/span",
+
+  "review_score_f": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[4]/div[1]/div/div[",
+  "review_score_b": "]/div[3]/div/div",
+
+  "season_grid": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[4]/div[2]/div",
+  "season_text_f": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[4]/div[2]/div/div[",
+  "season_text_b": "]/div[2]/span",
+  "season_score_f": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[4]/div[2]/div/div[",
+  "season_score_b": "]/div[3]/div/div",
+
+  "notes_grid": "//*[@id=\"pyramid\"]/div[1]/div/div[2]",
+  "top_notes_num": "//*[@id=\"pyramid\"]/div[1]/div/div[2]/div[3]/div",
+  "middle_notes_num": "//*[@id=\"pyramid\"]/div[1]/div/div[2]/div[4]/div",
+  "base_notes_num": "//*[@id=\"pyramid\"]/div[1]/div/div[2]/div[5]/div",
+
+  "top_note_f": "//*[@id=\"pyramid\"]/div[1]/div/div[2]/div[3]/div/div[",
+  "top_note_b": " ]/div[2]",
+
+  "middle_note_f": "//*[@id=\"pyramid\"]/div[1]/div/div[2]/div[4]/div/div[",
+  "middle_note_b": "]/div[2]",
+
+  "base_note_f": "//*[@id=\"pyramid\"]/div[1]/div/div[2]/div[5]/div/div[",
+  "base_note_b": "]/div[2]",
+
+  "rating_grid": "  //*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[5]/div[3]/div",
+  "rating_score": "/*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[5]/div[3]/div/p[1]/span[1]",
+  "rating_num": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[2]/div[5]/div[3]/div/p[1]/span[3]",
+
+  "perfumer_grid": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[3]",
+  "perfumer_one": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[3]/div[2]/div/a",
+  "perfumer_f": "  //*[@id=\"main-content\"]/div[1]/div[1]/div/div[3]/div[2]/div[",
+  "perfumer_b": "]/a",
+
+
+  "property_grid_f": "//*[@id=\"main-content\"]/div[1]/div[1]/div/div[",
+  "property_grid_b": "]/div",
+
+
+  "property_mid": "/div[",
+  "property_text": "]/div/div[1]/span",
+
+  "score_f": "]/div/div[3]/div[",
+  "score_b": "]/div[2]/span"
+
+}
