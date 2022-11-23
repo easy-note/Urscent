@@ -1,0 +1,17 @@
+/home/cv_ljh_0/work/private/Urscent/code/api/text_based/not_used
+code/api/text_based/bert_embedding_(59000, 768)-gpu.npy
+code/api/text_based/bert_embedding_(59000, 768).npy
+assets/pkl/field_dict.pkl
+assets/pkl/field_index.pkl
+assets/pkl/test_Y.pkl
+assets/pkl/train_X.pkl
+code/api/topn_extract_node.out
+code/api/text_based/not_used/bert_embedding_(1, 768).npy
+code/api/text_based/not_used/bert_embedding_768.npy
+code/api/text_based/pretrained_bert.out
+LF_Fragrance/data/failed_url.pkl
+LF_Fragrance/data/failed.pkl
+LF_Fragrance/data/field_dict_2.pkl
+LF_Fragrance/data/field_index_2.pkl
+code/api/text_based/pretrained_bert_gpu.out
+code/results/note_based/note_based_cos_sim.csv
